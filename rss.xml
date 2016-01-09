@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[lanquetin]]></title>
         <description><![CDATA[lanquetin]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lanquetin/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 20:52:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 21:19:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lanquetin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Transformer Des Combles En Habitation : Les Précautions À Prendre.]]></title>
+            <description><![CDATA[<article><h1>Transformer Des Combles En Habitation : Les Précautions À Prendre.</h1><p>Transformer des combles en habitation : Plus de surface, plus de volume un moyen d’agrandir son appartement sans forcément devoir faire beaucoup de travaux. Mais attention à ne pas oublier les démarches administratives ou de copropriétés.</p></article>]]></description>
+            <link>https://thegrid.ai/lanquetin/transformer-des-combles-en-habitation-les-precautions-a-pr/index.html</link>
+            <guid isPermaLink="false">13a8dd38-1daf-460a-9454-5374d13ece5c</guid>
+            <pubDate>Sat, 09 Jan 2016 21:19:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Modélisation 3D d’Immeubles Anciens ou Neufs]]></title>
             <description><![CDATA[<article><h1>Modélisation 3D d’Immeubles Anciens ou Neufs</h1><p>Le cabinet Patrice Lanquetin est un cabinet de géomètre-expert innovant et impliqué. </p></article>]]></description>
-            <link>undefinedmodelisation-3d-dimmeubles-anciens-ou-neufs/index.html</link>
+            <link>https://thegrid.ai/lanquetin/modelisation-3d-dimmeubles-anciens-ou-neufs/index.html</link>
             <guid isPermaLink="false">8b78c4d6-de80-402d-af7e-f7db2af125fc</guid>
             <pubDate>Sat, 09 Jan 2016 20:52:42 GMT</pubDate>
         </item>
