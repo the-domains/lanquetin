@@ -3,26 +3,28 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Transformer des combles en habitation : Plus de surface, plus de volume un moyen d’agrandir son appartement sans forcément devoir faire beaucoup de travaux. Mais attention à ne pas oublier les démarches administratives ou de copropriétés.'
-datePublished: '2016-01-10T07:00:05.492Z'
-dateModified: '2016-01-10T06:59:56.375Z'
+datePublished: '2016-01-10T11:24:16.514Z'
+dateModified: '2016-01-10T11:23:55.873Z'
 title: 'Transformer Des Combles En Habitation : Les Précautions À Prendre.'
 author: []
-sourcePath: _posts/2016-01-09-transformer-des-combles-en-habitation-les-precautions-a-pr.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-01-09-transformer-des-combles-en-habitation-les-precautions-a-pr.md
+published: true
 url: transformer-des-combles-en-habitation-les-precautions-a-pr/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/398a3e878da8cfc3d0da35adc540e807d8cfce0e.jpg)
+Transformer Des Combles En Habitation : Les Précautions À Prendre.
+
+Transformer des combles en habitation : Plus de surface, plus de volume un moyen d'agrandir son appartement sans forcément devoir faire beaucoup de travaux. Mais attention à ne pas oublier les démarches administratives ou de copropriétés.
 
 Selon que vous vous trouvez ou non en copropriété, les démarches sont différentes. Mais pas seulement : il faut aussi savoir précisément et par avance les travaux que vous devrez réaliser, et qui pourront nécessiter des autorisations administratives. L'aménagement des combles c'est bien, mais pas toujours simple. 
 
