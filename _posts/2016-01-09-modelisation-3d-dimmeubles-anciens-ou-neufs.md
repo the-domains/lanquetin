@@ -3,26 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-10T07:20:13.827Z'
-dateModified: '2016-01-10T07:20:05.781Z'
+datePublished: '2016-01-10T11:24:27.607Z'
+dateModified: '2016-01-10T11:23:26.438Z'
 title: Modélisation 3D d’Immeubles Anciens ou Neufs
 author: []
-sourcePath: _posts/2016-01-09-modelisation-3d-dimmeubles-anciens-ou-neufs.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+sourcePath: _posts/2016-01-09-modelisation-3d-dimmeubles-anciens-ou-neufs.md
+published: true
 url: modelisation-3d-dimmeubles-anciens-ou-neufs/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/817591bfa15592f592157ca80d378673d629b64a.jpg)
+Modélisation 3D d'Immeubles Anciens ou Neufs
 
 Le cabinet Patrice Lanquetin est un cabinet de géomètre-expert innovant et impliqué. 
 
