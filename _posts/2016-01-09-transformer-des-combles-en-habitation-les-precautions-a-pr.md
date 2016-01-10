@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Transformer des combles en habitation : Plus de surface, plus de volume un moyen d’agrandir son appartement sans forcément devoir faire beaucoup de travaux. Mais attention à ne pas oublier les démarches administratives ou de copropriétés.'
-datePublished: '2016-01-10T11:24:16.514Z'
-dateModified: '2016-01-10T11:23:55.873Z'
+datePublished: '2016-01-10T11:25:46.584Z'
+dateModified: '2016-01-10T11:24:16.514Z'
 title: 'Transformer Des Combles En Habitation : Les Précautions À Prendre.'
 author: []
 authors: []
